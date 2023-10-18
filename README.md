@@ -1,6 +1,6 @@
 # Modelo para Detecção de Fraude de Cartão de Crédito
 
-Este Projeto é referente ao Estudos da Disciplina de Tópicos de Big Data em Python. Neste projeto, utilizarei algoritmos de machine learning para treinar um modelo preditivo que seja capaz de aprender e detectar quando uma transação for fraudulenta ou não. Utilizarei os classificadores *Decision Tree*, *Random Forest*, Ada Boost e Gradient Boosting da biblioteca Scikit-Learn para identificar qual dentre estes quatro algoritmos se encaixa melhor em nosso conjunto de dados e produz os melhores resultados de acordo com as métricas de avaliação dos modelos.
+Este Projeto é referente ao Estudos da Disciplina de Tópicos de Big Data em Python. Neste projeto, utilizarei algoritmos de machine learning para treinar um modelo preditivo que seja capaz de aprender e detectar quando uma transação for fraudulenta ou não. Utilizarei os classificadores **Decision Tree**, **Random Forest**, **Ada Boost** e **Gradient Boosting** da biblioteca Scikit-Learn para identificar qual dentre estes quatro algoritmos se encaixa melhor em nosso conjunto de dados e produz os melhores resultados de acordo com as métricas de avaliação dos modelos.
 
 ## :file_folder: Conteúdo do Repositório:
 
